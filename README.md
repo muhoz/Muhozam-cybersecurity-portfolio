@@ -34,7 +34,8 @@ The following tools and technologies were utilized in this project:
 
 
 ## Architecture of my HOMELAB
-![Schéma de connexion des équipements](https://github.com/user-attachments/assets/fec05778-158c-400c-b366-7ceb00516c34)
+![Schéma de connexion des équipements](https://github.com/user-attachments/assets/a6e8c1da-2a1b-4eb3-8f4f-0bc1d5956aca)
+
 
 
 
