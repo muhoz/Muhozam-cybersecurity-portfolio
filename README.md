@@ -4,18 +4,18 @@
 In this project, I aim to:
 - Install and configure Windows Server 2019 on Hyper-V.
 - Set up and manage Active Directory and Group Policy.
-- Configure and manage essential network services such as DNS and DHCP.
+- Configure and manage essential network services such as DHCP.
 - Optimize the server's performance and security for enterprise deployment.
 - Implement best practices for backup and disaster recovery.
 - Monitor and troubleshoot server performance issues.
 
 ## The Skills Learned
 Throughout this project, I acquired and enhanced the following skills:
+- Utilizing Hyper-V for server virtualization.
 - Proficiently installing and configuring Windows Server 2019.
 - Deploying and managing Active Directory and Group Policy.
-- Setting up and administering network services including DNS and DHCP.
-- Utilizing Hyper-V for server virtualization.
-- Applying security best practices to safeguard server infrastructure.
+- Setting up and administering network service (DHCP) .
+- Applying security best practices (password strategies).
 - Developing backup and disaster recovery strategies.
 - Monitoring server performance and troubleshooting common issues.
 
@@ -29,8 +29,13 @@ The following tools and technologies were utilized in this project:
 - **DHCP (Dynamic Host Configuration Protocol)**: For automating the assignment of IP addresses.
 - **PowerShell**: For scripting and automation of server tasks.
 - **Windows Admin Center**: For managing servers and clusters.
+- **Microsoft Management Console**: To have all the tools we will be using during our work in the same place.
+
+
 
 ## Architecture of my HOMELAB
+![Schéma de connexion des équipements](https://github.com/user-attachments/assets/fec05778-158c-400c-b366-7ceb00516c34)
+
 
 
 
@@ -41,18 +46,23 @@ The following tools and technologies were utilized in this project:
 2. **Create a Virtual Machine**: Create a new virtual machine for Windows Server 2019.
 3. **Install Windows Server 2019**: Mount the installation media and follow the setup wizard to install the OS.
 4. **Initial Configuration**: Configure the server with an appropriate hostname, static IP address, and update settings.
+5. **Setting up client hosts**: Installation and configuration of the two Windows 10 clients
+6. **Setting up PFSense**: Installation and configuration of PFSense
 
+ 
 ### Step 2: Configuring Active Directory and Group Policy
 1. **Install Active Directory Domain Services**: Use Server Manager to add the Active Directory Domain Services role.
 2. **Promote to Domain Controller**: Configure the server as a new domain controller for a new forest.
 3. **Create and Manage Users and Groups**: Use Active Directory Users and Computers to create organizational units, users, and groups.
-4. **Configure Group Policy**: Create and link Group Policy Objects (GPOs) to enforce security and administrative settings.
+4. **Register the two client machines in the newly created forest**: Register the two clients with the users created
+5. **Configure Group Policy**: Create and link Group Policy Objects (GPOs) to enforce security and administrative settings.
+6. **Configure MMC**: create and configure the MMC console so it can help us having all the controls at the same place
 
 ### Step 3: Managing Network Services (DNS, DHCP)
 1. **Install and Configure DNS**: Set up DNS to manage domain name resolution within your network.
 2. **Create DNS Zones and Records**: Define forward and reverse lookup zones and create necessary DNS records.
 3. **Install and Configure DHCP**: Set up DHCP to automate IP address assignment.
-4. **Create and Manage Scopes**: Define DHCP scopes and options for different network segments.
+4. **Create IP addresses range**: Define the range for the ip addresses for the clients
 
 ### Step 4: Performance Tuning and Security Best Practices
 1. **Performance Monitoring**: Use Performance Monitor and Resource Monitor to track server performance.
@@ -69,4 +79,3 @@ The following tools and technologies were utilized in this project:
 1. **Set Up Monitoring Tools**: Use Windows Admin Center and other monitoring tools to keep track of server health.
 2. **Identify and Resolve Issues**: Troubleshoot common server issues such as performance bottlenecks, service failures, and connectivity problems.
 3. **Regular Maintenance**: Perform regular maintenance tasks such as checking for updates, reviewing logs, and cleaning up unnecessary files.
-
