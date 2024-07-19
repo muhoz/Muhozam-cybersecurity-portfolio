@@ -21,4 +21,8 @@ The evaluation expires after 180 days.
 
 For the installaton process :
 - on Hyper-V Manager, to your right, choose `New -> Virtual Machine...`
-- in the wizard, just follow the instructions (insert the name, the location on your drive to store the VM files), and modify the settings for your VM as shown there:
+<img width="529" alt="Create_VM" src="https://github.com/user-attachments/assets/3e041eab-96fb-4142-9d7e-e15017293924">
+
+- in the wizard, just follow the instructions and modify the settings for your VM as shown there  (insert the name, the location on your drive to store the VM files) :
+<img width="530" alt="settings_of_DC" src="https://github.com/user-attachments/assets/57ef4cd2-03eb-4af2-b92e-9315b7cb0e9e">
+
