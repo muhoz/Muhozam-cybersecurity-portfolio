@@ -84,5 +84,5 @@ The following tools and technologies were utilized in this project:
 ## ✨Keep an Eye Out for Updates!
 
 This portfolio will expand as I earn more certifications and complete additional projects. I invite you to return to see my progress and discover more about my skills and experience.
-Thank you for visiting. For further information, feel free to connect with me on my [LinkedIn](www.linkedin.com/in/yves-christian-muhozam) 
+Thank you for visiting. For further information, feel free to connect with me on my [LinkedIn](https://www.linkedin.com/in/yves-christian-muhozam) 
 I will create folders for all the steps to detail the process every weeks.
