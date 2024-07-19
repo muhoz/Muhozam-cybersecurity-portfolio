@@ -7,8 +7,18 @@ So to install it (better say activate it), you can :
 
 
 - After this window will shown, scroll till you find Hyper V and check all the box related
+<img width="349" alt="turn_on_features" src="https://github.com/user-attachments/assets/7d1f5d6a-f3fe-4b2a-8644-e31f28c61344">
 
 
 - Your computer will restart and you will be able to find "Hyper V Manager" by entering it on the search bar.
+<img width="580" alt="hyperVManager" src="https://github.com/user-attachments/assets/50c39313-b298-4d25-8f8a-bd0661fd26c2">
 
 - Click on it and the manager will show itself
+
+# Create a VM (Windows Server 2019) 
+First thing is to get the ISO image for WS2019, which can be found at : <a href="https://go.microsoft.com/fwlink/p/?LinkID=2195167&clcid=0x409&culture=en-us&country=US">.
+The evaluation expires after 180 days.
+
+For the installaton process :
+- on Hyper-V Manager, to your right, choose `New -> Virtual Machine...`
+- in the wizard, just follow the instructions (insert the name, the location on your drive to store the VM files), and modify the settings for your VM as shown there:
