@@ -50,6 +50,8 @@ The following tools and technologies were utilized in this project:
 5. **Setting up client hosts**: Installation and configuration of the two Windows 10 clients
 6. **Setting up PFSense**: Installation and configuration of PFSense
 
+The tutorial for this part can be found at : [STEP 1 TUTORIAL](https://github.com/muhoz/Muhozam-cybersecurity-portfolio/blob/main/Windows%20Server%202019/Step%201/Step-1.md)
+
  
 ### Step 2: Configuring Active Directory and Group Policy
 1. **Install Active Directory Domain Services**: Use Server Manager to add the Active Directory Domain Services role.
