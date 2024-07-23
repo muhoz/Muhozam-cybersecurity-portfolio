@@ -80,3 +80,5 @@ In the installation wizard, enter a username and password as desired.
 
 After all this configuration, we will have the list of VMS as shown here:
 
+<img width="873" alt="VMs_list" src="https://github.com/user-attachments/assets/6d5700d7-203c-4caa-a87d-decb3ba3c963">
+
