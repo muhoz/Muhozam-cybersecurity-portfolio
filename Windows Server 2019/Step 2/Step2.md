@@ -59,6 +59,19 @@ The Microsoft Management Console helps us to have a central management place whe
 To open it, execute the `MMC.exe` and follow the steps ( follow the red squares) :
 ffffff
 
+
+<img width="597" alt="Screenshot 2024-07-28 175401" src="https://github.com/user-attachments/assets/ce6e9225-5068-487c-b1f5-3e6074a9ff4b">
+<img width="504" alt="Screenshot 2024-07-28 175017" src="https://github.com/user-attachments/assets/a66fbb73-b823-45b9-9c7b-2982ccfaed2d">
+<img width="440" alt="Screenshot 2024-07-28 174732" src="https://github.com/user-attachments/assets/cd60bd1d-a966-481f-baaf-05a0888b9f55">
+<img width="325" alt="Screenshot 2024-07-28 174018" src="https://github.com/user-attachments/assets/9770641f-ee4b-46e7-a9c5-61e2d068696e">
+<img width="328" alt="Screenshot 2024-07-28 173857" src="https://github.com/user-attachments/assets/0191e54f-2a2e-42fe-afd5-54e8ddfaf2c0">
+<img width="566" alt="Screenshot 2024-07-28 173442" src="https://github.com/user-attachments/assets/57a3efa3-f916-434c-85ef-05c0d7b40dd8">
+<img width="599" alt="Screenshot 2024-07-28 171554" src="https://github.com/user-attachments/assets/f5704c55-5049-4b7b-9e75-a11fdcd1e0b5">
+<img width="602" alt="Screenshot 2024-07-28 171412" src="https://github.com/user-attachments/assets/1767852d-579b-4a4d-bac0-d67ad59b00ac">
+<img width="602" alt="Screenshot 2024-07-28 171126" src="https://github.com/user-attachments/assets/31a5cd86-3227-4544-a9cc-08da7dca7a2c">
+<img width="589" alt="Screenshot 2024-07-28 170712" src="https://github.com/user-attachments/assets/cc46eb1d-8e4b-4544-9df9-1767476dca0e">
+<img width="599" alt="Screenshot 2024-07-28 172625" src="https://github.com/user-attachments/assets/57a310a0-7a81-4efc-ab60-61dca475d83a">
+
 You will have the window like this now
 ffffff
 
