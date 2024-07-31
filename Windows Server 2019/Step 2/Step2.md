@@ -56,6 +56,10 @@ Go to the top right corner of the Hyper-V Manager and open the AD users and comp
 This window will appear, do a right click on the `DC name > New > Organisational Unit`.
 The OUs are represented as sub-folders within the DC main folder.
 
+<img width="572" alt="Screenshot 2024-07-31 221600" src="https://github.com/user-attachments/assets/409fa957-cafa-49d5-a185-2a9e6826f420">
+
+
+
 ### Creation of the two users
 
 Right click on the subfolder name for the concerned `user > New > User`.
