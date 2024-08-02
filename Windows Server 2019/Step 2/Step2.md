@@ -81,7 +81,7 @@ To open it, execute the *MMC.exe* and follow the steps (follow the red squares o
 
 <img width="504" alt="Screenshot 2024-07-28 175017" src="https://github.com/user-attachments/assets/a66fbb73-b823-45b9-9c7b-2982ccfaed2d">
 
-You will have the window like this now
+You will have a window like this now
 
 <img width="597" alt="Screenshot 2024-07-28 175401" src="https://github.com/user-attachments/assets/ce6e9225-5068-487c-b1f5-3e6074a9ff4b">
 
