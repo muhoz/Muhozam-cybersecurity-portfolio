@@ -57,13 +57,13 @@ The tutorial for this part can be found at : [STEP 1 TUTORIAL](https://github.co
 1. **Install Active Directory Domain Services**: Use Server Manager to add the Active Directory Domain Services role.
 2. **Promote to Domain Controller**: Configure the server as a new domain controller for a new forest.
 3. **Create and Manage Users and Groups**: Use Active Directory Users and Computers to create organizational units, users, and groups.
-5. **Configure Group Policy**: Create and link Group Policy Objects (GPOs) to enforce security and administrative settings.
-6. **Configure MMC**: create and configure the MMC console so it can help us having all the controls at the same place
+4. **Configure MMC**: create and configure the MMC console so it can help us having all the controls at the same place
 
 ### Step 3: Managing Network Services (DHCP)
 1. **Install and Configure DHCP**: Set up DHCP to automate IP address assignment.
 2. **Create IP addresses range**: Define the range for the ip addresses for the clients
 3. **Register the two client machines in the newly created forest**: Register the two clients with the users created
+4. **Configure Group Policy**: Create and link Group Policy Objects (GPOs) to enforce security and administrative settings.
 
 ### Step 4: Performance Tuning and Security Best Practices
 1. **Performance Monitoring**: Use Performance Monitor and Resource Monitor to track server performance.
