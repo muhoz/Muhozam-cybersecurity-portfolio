@@ -69,9 +69,6 @@ The OUs are represented as sub-folders within the DC main folder.
 
 Do as the same for **Mister X**
 
-## Configure Group Policy
-
-
 ## Configure MMC
 
 **The Microsoft Management Console** helps us to have a central management place where we can easily and rapidly reach the different functionalities we need.
