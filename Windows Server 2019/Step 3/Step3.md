@@ -1,4 +1,4 @@
-# Managing Network Services (DHCP)
+<img width="771" alt="image" src="https://github.com/user-attachments/assets/0a15040c-eb59-4b48-94ff-6d0a0a03edf0"># Managing Network Services (DHCP)
 
 ## Installation and Configuration of the DHCP Server
 
@@ -30,3 +30,13 @@ fffffffff
 You can skip the next step until you are asked for the routeur address, fill in the address of your pfsense interface.
 
 ## Register the two client machines in the newly created forest
+
+Turn on the first Windows 10 client and connect to the desktop and open the `system properties`
+ffffffffff
+
+Tick `Domain` and fill in with the name of your domain. You will be asked the account and password, input *misterx* or whatever name you created the user in the Domain controller.
+Done, restart your computer and you will sign in with newly account.
+fffffffff
+
+
+Do the same for the second client (*missy*)
