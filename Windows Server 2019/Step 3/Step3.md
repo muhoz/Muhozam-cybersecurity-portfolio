@@ -65,6 +65,8 @@ In our example, we will create a gpo that helps to deploy a software on the comp
 Go to the top right corner of the Hyper-V Manager and open the `Tools`> `Group strategy`.
 fffffff
 
+
+
 Window opened, make a right cick as shown on the screeenshot and we will choose the first option :
 fffffff
 
