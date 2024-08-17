@@ -55,3 +55,36 @@ Done, restart your computer and you will sign in with newly account.
 <img width="771" alt="misterx" src="https://github.com/user-attachments/assets/eb40ed64-0f8c-4993-935c-92bcd24845fc">
 
 Do the same for the second client (*missy*)
+
+## Group Policy Object (GP0)
+
+A group policy is "a virtual collection of policy settings, security permissions, and scope of management (SOM) that you can apply to users and computers", as defined by Microsoft on this link : https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/group-policy/group-policy-overview.
+
+In our example, we will create a gpo that helps to deploy a software on the computer in the domain.
+
+Go to the top right corner of the Hyper-V Manager and open the `Tools`> `Group strategy`.
+fffffff
+
+Window opened, make a right cick as shown on the screeenshot and we will choose the first option :
+fffffff
+
+Create the group and assign it a name. Next, we will modify it:
+ffffff
+
+We have two options here:
+Assign the GPO by users
+Assign the GPO by computers
+
+fffff
+
+We will assign it by computers. This will permit the computer to have the GPO applied even if the user is changed after.
+Follow these steps to create a new one
+
+
+
+Now, choose the software you need to deploy (*it has to be a .msi package*). Wait until the software appears in the window :
+It's seems to be good now, let's restart the windows clients to see if the strategy is applied.
+
+
+
+
