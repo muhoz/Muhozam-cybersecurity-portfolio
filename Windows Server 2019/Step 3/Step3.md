@@ -63,30 +63,27 @@ A group policy is "a virtual collection of policy settings, security permissions
 In our example, we will create a gpo that helps to deploy a software on the computer in the domain.
 
 Go to the top right corner of the Hyper-V Manager and open the `Tools`> `Group strategy`.
-fffffff
+<img width="770" alt="Screenshot 2024-08-17 131925" src="https://github.com/user-attachments/assets/8244f1b2-e4ab-46f7-8557-74112c2bb0c4">
 
 
 
 Window opened, make a right cick as shown on the screeenshot and we will choose the first option :
-fffffff
+<img width="565" alt="Screenshot 2024-08-17 132133" src="https://github.com/user-attachments/assets/dfb0c2ce-8430-4644-97ae-d6b6b3ca4249">
 
 Create the group and assign it a name. Next, we will modify it:
-ffffff
+<img width="565" alt="Screenshot 2024-08-17 132517" src="https://github.com/user-attachments/assets/c1b2af6a-32a2-4e6d-a963-fecd2645a525">
 
 We have two options here:
 Assign the GPO by users
 Assign the GPO by computers
-
-fffff
+<img width="590" alt="Screenshot 2024-08-17 132657" src="https://github.com/user-attachments/assets/12d38b55-70a5-4e75-a804-dfb517fa048e">
 
 We will assign it by computers. This will permit the computer to have the GPO applied even if the user is changed after.
 Follow these steps to create a new one
 
-<img width="565" alt="Screenshot 2024-08-17 132133" src="https://github.com/user-attachments/assets/dfb0c2ce-8430-4644-97ae-d6b6b3ca4249">
-<img width="770" alt="Screenshot 2024-08-17 131925" src="https://github.com/user-attachments/assets/8244f1b2-e4ab-46f7-8557-74112c2bb0c4">
-<img width="565" alt="Screenshot 2024-08-17 132517" src="https://github.com/user-attachments/assets/c1b2af6a-32a2-4e6d-a963-fecd2645a525">
-<img width="590" alt="Screenshot 2024-08-17 132657" src="https://github.com/user-attachments/assets/12d38b55-70a5-4e75-a804-dfb517fa048e">
+
 <img width="678" alt="Screenshot 2024-08-17 133241" src="https://github.com/user-attachments/assets/15e6fb28-c248-401f-b7ed-54cca8ca31a6">
+
 <img width="589" alt="Screenshot 2024-08-17 134236" src="https://github.com/user-attachments/assets/e41ddcc4-064b-4aaf-8f5e-1df9fd38f641">
 
 Now, choose the software you need to deploy (*it has to be a .msi package*). Wait until the software appears in the window :
