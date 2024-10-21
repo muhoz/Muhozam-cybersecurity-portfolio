@@ -67,9 +67,8 @@ The tutorial for this part can be found at : [STEP 1 TUTORIAL](https://github.co
 
 ### Step 4: Performance Tuning and Security Best Practices
 1. **Performance Monitoring**: Use Performance Monitor and Resource Monitor to track server performance.
-2. **Optimize Performance**: Implement performance tuning techniques such as adjusting virtual memory, managing disk I/O, and network optimizations.
-3. **Apply Security Best Practices**: Configure firewall rules, enable Windows Defender, and apply security updates.
-4. **Audit and Monitoring**: Set up auditing policies and monitor logs for suspicious activities.
+2. **Apply Security Best Practices**: Configure firewall rules, enable Windows Defender, and apply security updates.
+3. **Audit and Monitoring**: Set up auditing policies and monitor logs for suspicious activities.
 
 ### Step 5: Backup and Disaster Recovery Planning
 1. **Configure Windows Server Backup**: Set up regular backup schedules for critical data.
